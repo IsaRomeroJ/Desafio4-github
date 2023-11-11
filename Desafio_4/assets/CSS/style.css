@@ -1,0 +1,43 @@
+/* General */
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #707070;
+    /* font-weight: 300; */
+    font-size: 1rem;
+}
+
+.logo {
+    height: 1.563rem;
+}
+
+/* Cupones */
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: #212529;
+}
+
+.card-direccion {
+    font-size: 0.8125rem;
+}
+
+.card-precio-final {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #28a745;
+    margin-left: 1rem;
+}
+
+/* Formulario */
+.form-titulo {
+    font-size: 1.3125rem;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+}
+
+.h2{
+    color: white;
+}
